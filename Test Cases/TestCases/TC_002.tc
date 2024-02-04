@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description></description>
+   <description>homepage image clickable</description>
    <name>TC_002</name>
    <tag></tag>
    <comment></comment>
