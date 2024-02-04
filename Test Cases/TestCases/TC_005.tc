@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate logo</description>
+   <name>TC_005</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c6d1556e-df59-4ef2-a911-fe08f8ff3803</testCaseGuid>
+</TestCaseEntity>
